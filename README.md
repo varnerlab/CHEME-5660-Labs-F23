@@ -5,8 +5,19 @@ This repository holds the lab notebooks for the [Finance and Markets for Enginee
 ### Overview
 In today’s society, finance holds a vital position in both the progress of technology and the lives of individuals. Despite this, traditional engineering or physical science curriculums seldom teach financial forecasting, modeling, and decision-making. Many engineers and scientists pursue careers in finance and consulting, adding to the need for financial knowledge. This course aims to bridge these gaps by introducing engineers and scientists to financial systems, markets, and quantitative finance tools and approaches. We will model, analyze, and optimize financial systems and decision-making processes using engineering, statistics, data science, and machine learning tools.
 
-### Topics
-* [Lab 1b: HelloWorld. Installation of course packages and tools](CHEME-5660-Lab-1b-HelloWorld.ipynb)
+### Lab topics
+* [Lab 1b: HelloWorld. Installation of course packages and tools](CHEME-5660-L1b-HelloWorld.ipynb)
+* [Lab 4b: Net Present Value (NPV) calculations](CHEME-5660-L4b-NetPresentValue.ipynb)
+* [Lab 5b: Are Fixed Income Investments Really Risk Free?](CHEME-5660-L5b-FixedIncomeRisk.ipynb)
+* [Lab 6b: Lattice Models for Equity Pricing](CHEME-5660-L6b-EquityPriceLatticeModels.ipynb)
+* [Lab 7b: Monte Carlo Simulation for Equity Pricing](CHEME-5660-L7b-EquityPriceStochasticModels.ipynb)
+* [Lab 8b: Monte Carlo Simulation with Jumps and Corrections](CHEME-5660-L8b-EquityPriceAdvStochasticModels.ipynb)
+* [Lab 9b: American and European Option Contracts at Expiration](CHEME-5660-L9b-OptionsContractsAtExpiration.ipynb)
+* [Lab 10b: American and European Option Contracts Price Dynamics](CHEME-5660-L10b-OptionContractPriceDynamics.ipynb)
+* [Lab 11b: Data and Model Drive Portfoilio Allocation](CHEME-5660-L11b-DataDrivePortfolioAllocation.ipynb)
+* [Lab 12b: The End of the Universe: Surviving Black Swan Event](CHEME-5660-L12b-SurvivingBlackSwans.ipynb)
+* [Lab 13b: Markov Decision Processes](CHEME-5660-L13b-MDPs.ipynb)
+* [Lab 14b: Reinforcement Learning and Realtime Trade Management](CHEME-5660-L15b-OnlineTradeBot.ipynb)
 
 ### Installing Julia
 This course uses the [Julia](https://julialang.org) programming language. You can find the installation instructions for Julia [here](https://julialang.org/downloads/).
