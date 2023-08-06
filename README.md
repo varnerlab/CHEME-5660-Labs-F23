@@ -5,7 +5,7 @@ This repository holds the lab notebooks for the [Finance and Markets for Enginee
 ### Overview
 In today’s society, finance holds a vital position in both the progress of technology and the lives of individuals. Despite this, traditional engineering or physical science curriculums seldom teach financial forecasting, modeling, and decision-making. Many engineers and scientists pursue careers in finance and consulting, adding to the need for financial knowledge. This course aims to bridge these gaps by introducing engineers and scientists to financial systems, markets, and quantitative finance tools and approaches. We will model, analyze, and optimize financial systems and decision-making processes using engineering, statistics, data science, and machine learning tools.
 
-### Lab topics
+#### Lab topics
 * [Lab 1b: HelloWorld. Installation of course packages and tools](CHEME-5660-L1b-HelloWorld.ipynb)
 * [Lab 4b: Net Present Value (NPV) calculations](CHEME-5660-L4b-NetPresentValue.ipynb)
 * [Lab 5b: Are Fixed Income Investments Really Risk Free?](CHEME-5660-L5b-FixedIncomeRisk.ipynb)
