@@ -1,14 +1,17 @@
-# Labs for Finance and Markets for Engineers and Scientists
+## Labs for Finance and Markets for Engineers and Scientists
 
 This repository holds the lab notebooks for the [Finance and Markets for Engineers and Scientists course at Cornell](https://varnerlab.github.io/CHEME-5660-Markets-Mayhem-Book/infrastructure.html).
 
-## Overview
+### Overview
 In today’s society, finance holds a vital position in both the progress of technology and the lives of individuals. Despite this, traditional engineering or physical science curriculums seldom teach financial forecasting, modeling, and decision-making. Many engineers and scientists pursue careers in finance and consulting, adding to the need for financial knowledge. This course aims to bridge these gaps by introducing engineers and scientists to financial systems, markets, and quantitative finance tools and approaches. We will model, analyze, and optimize financial systems and decision-making processes using engineering, statistics, data science, and machine learning tools.
 
-## Installing Julia
+### Topics
+* [Lab 1b: HelloWorld. Installation of course packages and tools](CHEME-5660-Lab-1b-HelloWorld.ipynb)
+
+### Installing Julia
 This course uses the [Julia](https://julialang.org) programming language. You can find the installation instructions for Julia [here](https://julialang.org/downloads/).
 
-## Installing Jupyter
+### Installing Jupyter
 The labs are provided as [Jupyter notebooks](https://jupyter.org); you can find the installation instruction for installing Jupyter [here](https://jupyter.org/install).  For the labs, we use [Julia](https://julialang.org) as our Jupyter notebook kernel; this requires the installation of the [IJulia](https://github.com/JuliaLang/IJulia.jl) package. 
 
 To install [IJulia](https://github.com/JuliaLang/IJulia.jl) from the [Julia REPL](https://docs.julialang.org/en/v1/stdlib/REPL/) press the `]` key to enter [pkg mode](https://pkgdocs.julialang.org/v1/repl/) and the issue the command:
