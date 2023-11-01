@@ -29,6 +29,7 @@ function MyDailyTreasuryYieldCurveDataSet(;year::String = "2023")::DataFrame
     return _loadcsvfile(joinpath(_PATH_TO_DATA, "daily-treasury-rates-2023.csv"));
 end
 
-MyPortfolioDataSet() = _jld2(joinpath(_PATH_TO_DATA, "OHLC-Daily-SP500-5-years-TD-1256.jld2"));
+MyTickersDataSet() = _loadcsvfile(joinpath(_PATH_TO_DATA, "Tickers.csv"));
+MyPortfolioDataSet() = _jld2(joinpath(_PATH_TO_DATA, "SP500-Daily-OHLC-1-3-2018-to-10-31-2023.jld2"));
 MyFirmMappingDataSet() = _loadcsvfile(joinpath(_PATH_TO_DATA, "SP500-Firm-Mapping-06-22-23.csv"));
 MyOptionsChainDataSet() = _loadcsvfile(joinpath(_PATH_TO_DATA, "AMD-options-exp-2023-08-18-monthly-07-18-2023.csv"));
